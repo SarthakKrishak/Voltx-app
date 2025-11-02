@@ -228,7 +228,7 @@ const styles = StyleSheet.create({
     marginBottom: 12,
   },
   card: {
-    backgroundColor: "rgba(255, 255, 255, 0.9)",
+    backgroundColor:"white",
     borderRadius: 16,
     shadowColor: "#000",
     shadowOffset: {
@@ -280,7 +280,7 @@ const styles = StyleSheet.create({
   },
   divider: {
     height: 1,
-    backgroundColor: "rgba(229, 231, 235, 0.5)",
+    // backgroundColor: "rgba(229, 231, 235, 0.5)",
     marginLeft: 76,
   },
   bottomSpacer: {
