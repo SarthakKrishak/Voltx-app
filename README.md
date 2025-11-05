@@ -1,1 +1,1 @@
-# Welcome to your Voltx app 👋
+# Welcome to Voltx app
